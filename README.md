@@ -14,7 +14,12 @@
 </div>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rKrishan99&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rKrishan99&style=flat&color=blue"> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rKrishan99?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/rKrishan99?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/rKrishan99"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
 
 <table align="center">
 <tr border="none">
@@ -84,8 +89,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rKrishan99&theme=dark)
 
+<br>
 
-## 📫 Connect with Me
+## 📫 Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 - 📧 Email: [rkrishan894@gmail.com](rkrishan894@gmail.com)
 - 🌐 Portfolio: 
