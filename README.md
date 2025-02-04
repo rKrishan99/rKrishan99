@@ -29,30 +29,28 @@
 | **Other Tools** | <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub"/> <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman"/> |
 
 
+---
+
 
 ## 📊 GitHub Stats
 
 <div style="display: flex; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rKrishan99&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="max-width: 450px; width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rKrishan99&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 450px; width: 45%;" />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rKrishan99&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 450px; width: 35%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rKrishan99&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 450px; width: 35%;" />
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rKrishan99&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 450px; width: 45%;" />
 </div>
----
 
-## 🔥 Streak Stats
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rKrishan99&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="max-width: 450px; width: 45%;" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rKrishan99&theme=dark)
 
----
 
 ## 📫 Connect with Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 📧 Email: [your-email@example.com](rkrishan894@gmail.com)
+- 🌐 Portfolio: [your-website.com](https://rajithawijesinghe.me)
 - 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)
 - 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
