@@ -7,9 +7,11 @@
 </div>
 <br>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Enthusiast;UI/UX+Designer;Mobile+App+Developer)](https://git.io/typing-svg)
-
+<div align="center">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Enthusiast;UI/UX+Designer;Mobile+App+Developer" alt="Typing SVG" />
+  </p>
+</div>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rKrishan99&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
