@@ -44,8 +44,7 @@
   <!-- GitHub Streak Stats -->
 </div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rKrishan99&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="max-width: 450px; width: 45%;" />
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rKrishan99&theme=dark)
 
 
 ## 📫 Connect with Me
