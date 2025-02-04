@@ -22,8 +22,33 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-      # Step 2: Generate the snake animations
+      # Step 2: Ensure the 'output' branch exists
+      - name: Create Output Branch if Not Exists
+        id: create_output_branch
+        run: |
+          # Check if the 'output' branch exists
+          if ! git show-ref --verify --quiet refs/heads/output; then
+            echo "Creating 'output' branch..."
+            git checkout --orphan output
+            git rm -rf .
+            echo "This branch is used for GitHub Pages deployment" > README.md
+            git add README.md
+            git commit -m "Initial commit for output branch"
+            git push origin output
+          else
+            echo "'output' branch already exists."
+          fi
+
+      # Debugging Step: Print Git Remote and Status
+      - name: Debug Git Configuration
+        run: |
+          git remote -v
+          git status
+
+      # Step 3: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -38,7 +63,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }} # Use the PAT here
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 4: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
