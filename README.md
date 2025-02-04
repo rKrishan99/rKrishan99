@@ -1,3 +1,5 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
 <div align="center">
   
   # 💻 Hi, I'm Rajitha! 👋
@@ -11,6 +13,7 @@
 </div>
 
 ---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rKrishan99&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 📊 **About Me:**
 - 🚀 Passionate Full-Stack Developer, Machine Learning Enthusiast, and AI Explorer with a strong focus on **Node.js**, **Express.js**, **MongoDB**, and **React.js**.
