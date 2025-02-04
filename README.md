@@ -13,8 +13,10 @@
 - 💡 **Fun fact:** I love solving real-world challenges through code and automation!
 ---
 
-<div align="cemter">
+<div align="center">
+  
   ![snake gif](https://github.com/rKrishan99/rKrishan99/blob/output/github-snake-dark.svg)
+  
 </div>
 
 ## 🚀 Tech Stack
