@@ -32,15 +32,21 @@
 
 ## 📊 GitHub Stats
 
-![Rajitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+<div style="display: flex; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rKrishan99&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="max-width: 450px; width: 45%;" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rKrishan99&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 450px; width: 35%;" />
 
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rKrishan99&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 450px; width: 45%;" />
+</div>
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rKrishan99&theme=dark)
 
 ---
 
