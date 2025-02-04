@@ -15,14 +15,29 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rKrishan99&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 📊 **About Me:**
-- 🚀 Passionate Full-Stack Developer, Machine Learning Enthusiast, and AI Explorer with a strong focus on **Node.js**, **Express.js**, **MongoDB**, and **React.js**.
-- 🎯 Always learning and experimenting with cutting-edge technologies and modern frameworks.
-- 🔥 Currently developing a bulk email sender application and an email validation checker.
-- 🏗️ Exploring **Microservices Architecture**, **Redis**, **RabbitMQ**, **Docker**, and **Scalable Systems**.
-- 🤝 Open to collaborating on open-source projects, tech startups, and innovative ideas.
-- 🎨 Blending creativity with technology through **UI/UX design** and **mobile app development**.
-- 💡 **Fun fact:** I love solving real-world challenges through code and automation!
+
+- 🚀 Full-Stack Developer | MERN Stack, Mobile Apps, WordPress
+- 🎨 UI/UX Designer | Figma Expert
+- 🔧 Passionate about Coding, Design, and Automation
+- 🌟 Exploring Machine Learning (ML) and Artificial Intelligence (AI)
+- 💡 Love building innovative solutions and learning new technologies
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+
 ---
 
 <div align="center">
