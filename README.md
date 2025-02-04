@@ -54,6 +54,6 @@
 ## 📫 Connect with Me
 
 - 📧 Email: [rkrishan894@gmail.com](rkrishan894@gmail.com)
-- 🌐 Portfolio: [rajithawijesinghe.me](https://rajithawijesinghe.me)
+- 🌐 Portfolio: 
 - 🐦 Twitter: [@rkwgunathilaka]([https://twitter.com/your_twitter](https://x.com/rkwgunathilaka?s=21))
 - 💼 LinkedIn: [rajijtha.wijesinghe]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rajitha-wijesinghe-06b160257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
