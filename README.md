@@ -1,8 +1,9 @@
 <div align="center">
   
   # 💻 Hi, I'm Rajitha! 👋
-  
+
 </div>
+<br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Enthusiast;UI/UX+Designer;Mobile+App+Developer)](https://git.io/typing-svg)
