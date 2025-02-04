@@ -3,38 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Enthusiast;UI/UX+Designer;Mobile+App+Developer)](https://git.io/typing-svg)
 
 ---
-# About Me
-
-🚀 **Passionate Full-Stack Developer**, **Machine Learning Enthusiast**, and **AI Explorer** with a strong focus on:
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **React.js**
-
-🎯 Always learning and experimenting with cutting-edge technologies and modern frameworks.
-
-🔥 **Currently developing:**
-- A bulk email sender application.
-- An email validation checker.
-
-🏗️ **Exploring:**
-- Microservices Architecture
-- Redis
-- RabbitMQ
-- Docker
-- Scalable Systems
-
-🤝 Open to collaborating on:
-- Open-source projects
-- Tech startups
-- Innovative ideas
-
-🎨 Blending creativity with technology through:
-- UI/UX design
-- Mobile app development
-
-💡 **Fun fact:** I love solving real-world challenges through code and automation!
-
+📊 **About Me:**
+- 🚀 Passionate Full-Stack Developer, Machine Learning Enthusiast, and AI Explorer with a strong focus on **Node.js**, **Express.js**, **MongoDB**, and **React.js**.
+- 🎯 Always learning and experimenting with cutting-edge technologies and modern frameworks.
+- 🔥 Currently developing a bulk email sender application and an email validation checker.
+- 🏗️ Exploring **Microservices Architecture**, **Redis**, **RabbitMQ**, **Docker**, and **Scalable Systems**.
+- 🤝 Open to collaborating on open-source projects, tech startups, and innovative ideas.
+- 🎨 Blending creativity with technology through **UI/UX design** and **mobile app development**.
+- 💡 **Fun fact:** I love solving real-world challenges through code and automation!
 ---
 
 ## 🚀 Tech Stack
