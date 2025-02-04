@@ -7,13 +7,12 @@
 </div>
 <br>
 
-<div align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Enthusiast;UI/UX+Designer;Mobile+App+Developer" alt="Typing SVG" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&vCenter=true&center=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Enthusiast;UI/UX+Designer;Mobile+App+Developer" alt="Typing SVG" />
+</p>
 
 ---
+
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rKrishan99&style=flat&color=blue"> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rKrishan99?label=Followers&style=social"> •
