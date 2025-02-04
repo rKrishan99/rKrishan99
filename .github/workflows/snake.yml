@@ -25,7 +25,13 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Step 2: Ensure the 'output' branch exists
+      # Step 2: Configure Git Identity
+      - name: Configure Git User
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      # Step 3: Ensure the 'output' branch exists
       - name: Create Output Branch if Not Exists
         id: create_output_branch
         run: |
@@ -48,7 +54,7 @@ jobs:
           git remote -v
           git status
 
-      # Step 3: Generate the snake animations
+      # Step 4: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -63,7 +69,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }} # Use the PAT here
 
-      # Step 4: Deploy the generated files to the 'output' branch
+      # Step 5: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
