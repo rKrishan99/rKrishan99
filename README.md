@@ -14,7 +14,6 @@
 ---
 
 
-
 ## 🚀 Tech Stack
 
 | Category | Technologies |
