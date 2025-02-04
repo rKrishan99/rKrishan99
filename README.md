@@ -53,7 +53,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: [your-email@example.com](rkrishan894@gmail.com)
-- 🌐 Portfolio: [your-website.com](https://rajithawijesinghe.me)
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- 📧 Email: [rkrishan894@gmail.com](rkrishan894@gmail.com)
+- 🌐 Portfolio: [rajithawijesinghe.me](https://rajithawijesinghe.me)
+- 🐦 Twitter: [@rkwgunathilaka]([https://twitter.com/your_twitter](https://x.com/rkwgunathilaka?s=21))
+- 💼 LinkedIn: [rajijtha.wijesinghe]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rajitha-wijesinghe-06b160257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
