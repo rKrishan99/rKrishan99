@@ -12,6 +12,14 @@
 - 🎨 Blending creativity with technology through **UI/UX design** and **mobile app development**.
 - 💡 **Fun fact:** I love solving real-world challenges through code and automation!
 ---
+## GitHub Contributions Snake Animation
+
+![GitHub Snake Animation](https://rKrishan99.github.io/your-repo-name/dist/github-snake.svg)
+
+![GitHub Snake Animation (Dark Mode)](https://rKrishan99.github.io/your-repo-name/dist/github-snake-dark.svg)
+
+![Ocean GIF](https://rKrishan99.github.io/your-repo-name/dist/ocean.gif)
+
 
 ## 🚀 Tech Stack
 
