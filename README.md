@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&vCenter=true&center=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Enthusiast;UI/UX+Designer;Mobile+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&vCenter=true&center=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Enthusiast;UI/UX+Designer;Mobile+App+Developer" alt="Typing SVG" />
 </p>
 
 ---
