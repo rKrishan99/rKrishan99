@@ -95,5 +95,4 @@
 
 - 📧 Email: rajitha.wijesin@gmail.com
 - 🌐 Portfolio: www.rajithawijesinghe.com
-- 🐦 Twitter: [@rkwgunathilaka]([https://twitter.com/your_twitter](https://x.com/rkwgunathilaka?s=21))
 - 💼 LinkedIn: [rajijtha.wijesinghe](https://www.linkedin.com/in/rajitha-wijesinghe-06b160257/)
