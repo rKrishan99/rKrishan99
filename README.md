@@ -93,7 +93,7 @@
 
 ## 📫 Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-- 📧 Email: [rajitha.wijesin@gmail.com](rajitha.wijesin@gmail.com)
-- 🌐 Portfolio: 
+- 📧 Email: rajitha.wijesin@gmail.com
+- 🌐 Portfolio: www.rajithawijesinghe.com
 - 🐦 Twitter: [@rkwgunathilaka]([https://twitter.com/your_twitter](https://x.com/rkwgunathilaka?s=21))
-- 💼 LinkedIn: [rajijtha.wijesinghe]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rajitha-wijesinghe-06b160257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 💼 LinkedIn: [rajijtha.wijesinghe](https://www.linkedin.com/in/rajitha-wijesinghe-06b160257/)
